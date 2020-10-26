@@ -36,7 +36,7 @@ Siin on rohkem kui sada tähemärki teksti :)
   </tr>
 </table>
 
-<img src="https://thenextscoop.com/wp-content/uploads/2017/08/download-free-images-website-1280x720.jpg" alt="alternatetext" style="width:500px;height:600px;">
+<img src="https://thenextscoop.com/wp-content/uploads/2017/08/download-free-images-website-1280x720.jpg" alt="Download" style="width:640px;height:360px;">
 
 </body>
 </html>
